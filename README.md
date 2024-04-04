@@ -48,9 +48,9 @@ Write the detailed procedure here
 */
 
 **RTL Schematic**
-
+![image](https://github.com/arbasil05/FULL_ADDER_SUBTRACTOR/assets/144218037/776457b8-69fb-4627-87a1-4c58b479b2c9)
 **Output Timing Waveform**
-
+![image](https://github.com/arbasil05/FULL_ADDER_SUBTRACTOR/assets/144218037/db43bff2-a490-4df7-8099-e8dfba237afa)
 **Result:**
 
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
